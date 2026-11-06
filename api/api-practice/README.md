@@ -1,4 +1,4 @@
-# Робота з API(Application Progrmaing Interface)
+# Робота з API (Application Progrmaing Interface)
 
 ## Освнови REST API
 **REST API** - набір архітектурних правил для спілкування **клієнт-сервер**
